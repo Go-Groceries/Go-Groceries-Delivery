@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/drawable-v24/ic_back.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/drawable-v24/ic_edit.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.279" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/drawable-v24/ic_lock.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/drawable-v24/ic_rupee_24.xml" value="0.279" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/drawable-v24/ic_scanner.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/drawable-v24/shape_rect02.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/drawable/bottom_sheet_dialog_bg.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/drawable/dialog_bg.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/drawable/ic_camera.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/drawable/ic_delete.xml" value="0.137" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/drawable/ic_image.xml" value="0.137" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.279" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/drawable/ic_rupee_12.xml" value="0.279" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/drawable/ic_rupee_20.xml" value="0.279" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/drawable/ic_rupee_24.xml" value="0.279" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/drawable/ic_rupee_34.xml" value="0.279" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/layout/activity_delivery_guy_order_details.xml" value="0.4" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/layout/activity_forgot_password.xml" value="0.14351851851851852" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/layout/activity_login.xml" value="0.14351851851851852" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/layout/activity_main.xml" value="0.14351851851851852" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/layout/activity_main_delivery_guy.xml" value="0.4" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/layout/activity_profile.xml" value="0.14351851851851852" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/layout/activity_scanner.xml" value="0.4" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/layout/activity_signup.xml" value="0.14351851851851852" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/layout/bottom_sheet_dialog_bg.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/layout/fragment_delivery_guy_register.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/layout/img_options.xml" value="0.1265625" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/layout/row_order.xml" value="0.536" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/layout/scanner_dialog.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/layout/switch_item.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/menu/main_delivery_guy_menu.xml" value="0.8800000000000001" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/menu/profile_menu.xml" value="0.14351851851851852" />
+        <entry key="..\:/AndroidStudio/FridgeFortuneGroceryDelivery/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.137" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

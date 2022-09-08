@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/status"
+        android:title="Status of availability"
+        app:actionLayout="@layout/switch_item"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/scan"
+        android:icon="@drawable/ic_scanner"
+        android:title="Scan Invoice"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/profile"
+        android:title="My Profile"
+        app:showAsAction="always"
+        app:actionLayout="@layout/profile_icon_layout"/>
+
+</menu>
